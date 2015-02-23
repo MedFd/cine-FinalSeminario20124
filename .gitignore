@@ -1,0 +1,35 @@
+# Directories #
+/build/
+/bin/
+*/target/**
+/home/**
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+######################
+# Eclipse
+######################
+*.pydevproject
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+/src/main/resources/rebel.xml
+# External tool builders
+.externalToolBuilders/
+# Locally stored "Eclipse launch configurations"
+*.launch
+/target
+/.directory
